@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_show_wall">ShowWallActivity</string>
+    <string name="app_name">AppliPromotionSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="show_wall">Wall広告表示</string>
+    <string name="is_first_on_today">Wall当日未読の確認</string>
+    <string name="show_trigger">Wall広告誘導イメージ</string>
+    <string name="start_popup">Wall 広告誘導ポップアップ</string>
+    <string name="send_uuid">コンバージョン計測</string>
+    
+    <string name="show_wall_btn">Wallを開く</string>
+    <string name="show_wall_key_btn">Wallを開く(Keyを付与)</string>
+    
+
+</resources>
